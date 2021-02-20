@@ -1,0 +1,40 @@
+body{
+    background-color: rgba(108, 51, 161, 0.568);
+    font: normal 15pt Verdana;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.253);
+}
+
+div{
+    text-align: center;
+}
+div#msg{
+    margin-bottom: 10px;
+}
+
+.config-fotos{
+    width: 250px;
+    height: 250px;
+    border-radius: 500px;
+}
+
+footer{
+    color: white;
+    text-align: center;
+}
+
+.link-rodape{
+    color: white;
+}
