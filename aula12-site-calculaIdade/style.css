@@ -1,0 +1,53 @@
+body{
+    background-color: rgba(108, 51, 161, 0.568);
+    font: normal 15pt Verdana;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background-color: white;
+    border-radius: 30px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 8px 8px 10px rgba(0, 0, 0, 0.253);
+}
+
+div{
+    text-align: center;
+}
+div#msg{
+    margin-bottom: 10px;
+}
+
+img#foto{
+    width: 400px;
+    height: 450px;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+
+input#txtano{
+    width: 200px;
+    height: 25px;
+    font-size: 15pt;
+}
+
+input#verificar{
+    width: 100px;
+    height: 30px;
+    font-size: 15pt;
+}
+
+footer{
+    color: white;
+    text-align: center;
+}
+
+.link-rodape{
+    color: white;
+}
