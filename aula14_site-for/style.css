@@ -1,0 +1,43 @@
+body{
+    background-color: rgba(118, 27, 204, 0.733);
+    font: normal 17pt Verdana;
+}
+
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background-color: white;
+    border-radius: 30px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 8px 8px 10px rgba(0, 0, 0, 0.253);
+}
+
+div{
+    text-align: center;
+}
+
+input#txtf{
+    margin-left: 21px;
+}
+
+input#contar{
+    width: 100px;
+    height: 30px;
+    font-size: 15pt;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    margin-top: 175px;
+}
+
+.link-rodape{
+    color: white;
+}
